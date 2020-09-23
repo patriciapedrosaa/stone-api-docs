@@ -52,6 +52,13 @@ Body
       "type": "created",
       "from_status": null,
       "to_status": "active"
+    },
+    {
+      "id": 68dcb2b5-a823-48ec-9242-35d53a9e2b5a,
+      "created_at": "20200-09-24T03:00:00Z",
+      "type": "portability_requested",
+      "from_status": "active",
+      "to_status": "portability_pending"
     }
   ]
 }
