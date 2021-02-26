@@ -8,5 +8,7 @@ menu:
   main:
     weight: 2
 draft: false
+description: >
+    Dê uma olhada nesses guias preparados especialmente para você.
 ---
 
